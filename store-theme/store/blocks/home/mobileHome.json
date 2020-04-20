@@ -207,8 +207,9 @@
       "blockClass": "store-locator-home-mobile"
     },
     "children": [
-      "store-locator-search-input#mobile",
-      "rich-text#store-locatorMobile"
+      "rich-text#store-locatorMobile",
+      "store-locator-search-input#mobile"
+      
     ]
   },
 
