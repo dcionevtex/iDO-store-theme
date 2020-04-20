@@ -1,7 +1,7 @@
 {
   "vendor": "storeido",
   "name": "andrei",
-  "version": "3.26.40",
+  "version": "3.26.41",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
