@@ -20,15 +20,13 @@
         "flex-layout.row#store-locator",
         "info-card#teddy",
         "rich-text#link",
-        "newsletter",
-        "__fold__.experimentalLazyAssets"
+        "newsletter"      
       ]
     },
 
     "responsive-layout.mobile": {
       "children": [
         "slider-layout#andrei-imagesMobile",
-        "__fold__.experimentalLazyAssets",
         "shelf#raduMobile",
         "rich-text#shelf-title-backToSchoolMobile",
         "info-card#backToSchoolMobile",
